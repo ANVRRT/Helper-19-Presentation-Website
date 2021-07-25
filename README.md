@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="logo.png" alt="Logo">
+    <img src="logo.png" alt="Logo" width="80px;" height="80px;">
 
   <h3 align="center">Helper-19 Presentation Website in Node.js</h3>
 </p>
