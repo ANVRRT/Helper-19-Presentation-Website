@@ -26,7 +26,7 @@
 <p align="center">
     <img src="logo.png" alt="Logo">
 
-  <h3 align="center">Simple Steganography using Javascript</h3>
+  <h3 align="center">Helper-19 Presentation Website in Node.js</h3>
 </p>
 
 
